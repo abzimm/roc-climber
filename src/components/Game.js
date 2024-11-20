@@ -22,7 +22,6 @@ import {
   createEnemy,
   updateEnemy,
   drawEnemy,
-  loadEnemySprite,
 } from "../utils/enemyUtils";
 import { updateObstacles, drawObstacles } from "../utils/obstacleUtils";
 import {
