@@ -1,11 +1,6 @@
 
 # roc climber
 
-open source wip donkey-kong inspired game for upitt
-
-made entirely in react (don't do this ever)
-
-# roc climber
 
 - open source wip donkey-kong inspired game for upitt
 
