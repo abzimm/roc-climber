@@ -79,7 +79,7 @@ const Game = ({ onGameOver, onWin }) => {
 
   const loadGame = useCallback(async (levelNumber) => {
     try {
-      await Promise.all([loadPlayerSprite(), loadEnemySprite()]);
+      await Promise.all([loadPlayerSprite()]);
       const newLevel = createLevel(levelNumber);
       setLevel(newLevel);
       const bottomPlatform = newLevel.platforms[0];
