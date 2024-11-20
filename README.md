@@ -14,7 +14,6 @@
 
 
 ```bash
-  cd roc-climber
   npm install --omit=dev
   npm start
 ```
