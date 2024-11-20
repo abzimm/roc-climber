@@ -14,7 +14,7 @@
 
 
 ```bash
-  npm install --omit=dev
+  npm install animate --omit=dev
   npm start
 ```
     
